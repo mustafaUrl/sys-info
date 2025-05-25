@@ -33,7 +33,7 @@ This simple Flask application dynamically displays essential system information 
 1.  Clone the repository:
     
     ```bash
-    git clone [https://github.com/mustafaUrl/sys-info.git](https://github.com/mustafaUrl/sys-info.git)
+    git clone https://github.com/mustafaUrl/sys-info.git
     ```
     ```bash
     cd sys-info
